@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<users xmlns="urn:ietf:params:xml:ns:epp-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:ietf:params:xml:ns:epp-1.0 epp-1.0.xsd">
+<user><name>ivanov</name><login>ivanov</login><password>60a48844468f587dbcf92f8eba976f392e450d64</password><email>ivanov@a</email></user><user><name>asdf</name><login>asdf</login><password>3da541559918a808c2402bba5012f6c60b27661c</password><email>asdf@asdfasdf</email></user></users>
